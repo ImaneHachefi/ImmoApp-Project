@@ -1,0 +1,13 @@
+# Spring Boot
+ImmoApp/target/
+ImmoApp/.idea/
+ImmoApp/*.iml
+
+# Python
+immoapp_ia/.venv/
+immoapp_ia/__pycache__/
+immoapp_ia/.idea/
+
+# General
+*.log
+.DS_Store
